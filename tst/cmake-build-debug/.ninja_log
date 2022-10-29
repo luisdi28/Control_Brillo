@@ -1,0 +1,11 @@
+# ninja log v5
+1	1119	1667068453824192372	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	96bc4158bf2f719a
+0	1367	1667068454076188991	CMakeFiles/servidor.dir/main.cpp.o	2431515f9eee221
+1	1437	1667068454148188027	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	ebbe9a1e49e114ad
+1	2579	1667068455288172757	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	f8e1975f3ed31210
+1	4362	1667068457068148961	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	bcff8f300653e8f5
+4362	4458	1667068457164147681	lib/libgtest.a	6802aad170ccebec
+4458	4481	1667068457192147306	lib/libgtest_main.a	885d1b730798b43d
+4458	4499	1667068457208147093	lib/libgmock.a	3bac815e00933bc6
+4499	4522	1667068457232146773	lib/libgmock_main.a	bbde190806803d07
+4522	4827	1667068457532142770	servidor	52c3123e67b18edc
